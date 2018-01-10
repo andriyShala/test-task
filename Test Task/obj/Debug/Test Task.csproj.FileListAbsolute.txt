@@ -1,0 +1,11 @@
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\bin\Debug\Test Task.exe.config
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\bin\Debug\Test Task.exe
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\bin\Debug\Test Task.pdb
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test Task.csprojResolveAssemblyReference.cache
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test_Task.Form1.resources
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test_Task.Properties.Resources.resources
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test Task.csproj.GenerateResource.Cache
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test Task.csproj.CoreCompileInputs.cache
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test Task.exe
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test Task.pdb
+C:\Users\Андрій\Documents\Visual Studio 2017\Projects\Test Task\Test Task\obj\Debug\Test_Task.WriteNameForm.resources
